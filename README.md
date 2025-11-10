@@ -1,0 +1,2 @@
+# python_portfolio
+Pythonを使った業務自動化・データ分析・Webスクレイピングのポートフォリオ集
