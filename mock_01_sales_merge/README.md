@@ -26,7 +26,9 @@
 - openpyxl（Excel出力）
 - glob / os（複数ファイル処理）
 
----
+## 🧾 出力結果プレビュー
+<img width="730" height="470" alt="スクリーンショット 2025-11-12 5 54 49" src="https://github.com/user-attachments/assets/c33e7400-d2ef-4adf-861b-9a94ecf90383" />
 
-## 🎯 ゴール
-- フォルダ構成：
+
+
+
