@@ -11,7 +11,7 @@
 
 | No | 案件名 | 使用技術 | 内容 |
 |----|--------|----------|------|
-| ① | 複数店舗の売上データ統合 | pandas / openpyxl / glob | 複数CSVを読み込み、店舗別集計表をExcel出力 |
+| ① | 複数店舗の売上データ統合 | pandas / openpyxl / glob | 複数CSVを読み込み、店舗別集計表をExcel出力 |[mock_01_sales_merge](./mock_01_sales_merge) |
 | ② | 勤怠データ自動集計 | pandas / openpyxl | 勤務時間・残業・有給日数を月次レポート化 |
 | ③ | グラフ付き月報自動生成 | pandas / matplotlib / openpyxl | 月次売上グラフ付きExcelレポートを自動作成 |
 | ④ | Webスクレイピング＋Excel出力 | requests / BeautifulSoup / pandas | Webサイトから商品情報を取得・Excelに整形 |
