@@ -29,3 +29,7 @@
 - **openpyxl**（Excelファイル書き出し）
 - **numpy**（条件演算・欠損補完など）
 
+## 🧾 出力結果プレビュー
+<img width="998" height="468" alt="スクリーンショット 2025-11-22 10 28 14" src="https://github.com/user-attachments/assets/cf184869-64a1-4639-93d9-6ba0d1249cd9" />
+
+
