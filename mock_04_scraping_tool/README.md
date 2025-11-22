@@ -43,9 +43,3 @@ Excelファイルに出力するスクリプトを作成してください。
 | Sharp Objects | £47.82 | In stock | https://books.toscrape.com/... |
 | Sapiens: A Brief History ... | £54.23 | In stock | https://books.toscrape.com/... |
 
----
-
-## 🎯 ゴール
-- Webスクレイピングの基礎を習得  
-- Excel出力との連携スキルを獲得（収集→整形→出力）  
-- 実案件に近いポートフォリオを完成させる  
