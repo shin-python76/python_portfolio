@@ -1,39 +1,41 @@
-# 💼 Python Freelance Portfolio
+# 💼 Python × Excel自動化ポートフォリオ
+クラウドワークス等での業務効率化案件に対応できるスキルをまとめています。
 
-## 🧭 概要
-このリポジトリは、Pythonを活用した業務自動化・データ処理・Webスクレイピングの  
-**模擬案件（Mock Projects）** をまとめたポートフォリオです。  
-クラウドソーシングなどでの応募時に、実務スキルの参考資料として公開しています。
+**データ整理・Excel自動化・Webスクレイピング** を得意としています。
 
 ---
 
-## 📂 模擬案件一覧
+## 🧩 模擬案件一覧
 
-| No | 案件名 | 概要 | リンク |
-|----|--------|------|--------|
-| ① | 複数店舗の売上データ統合 | 複数CSVを結合し店舗別集計をExcel出力 | [mock_01_sales_merge](./mock_01_sales_merge) |
-
----
-
-## 🧩 使用ライブラリ
-- pandas（データ集計・整形）
-- openpyxl（Excel操作）
-- matplotlib（グラフ作成）
-- requests / BeautifulSoup（Webデータ収集）
-- Streamlit（データ可視化アプリ）
+| No | 案件名 | 使用技術 | 概要 |
+|----|--------|----------|------|
+| ① | 複数店舗の売上データ統合 | pandas / openpyxl / glob | 複数CSVを結合し、店舗別月次集計をExcel出力 |
+| ② | 勤怠データ自動集計 | pandas / openpyxl | 出勤・有給・残業時間を自動計算 |
+| ③ | グラフ付き月報レポート | pandas / matplotlib / openpyxl | 売上グラフ＋集計表を自動生成 |
+| ④ | Webスクレイピング＋Excel出力 | requests / BeautifulSoup / pandas | Webサイトの商品データを収集・整形・出力 |
 
 ---
 
-## 💬 制作目的
-- Python × Excel自動化を中心に、実務想定でのスクリプト構築を習得  
-- データ処理から出力・可視化までの一連の流れを再現  
-- クライアントが理解しやすい納品形態の実践
+### 🔗 各案件フォルダ
+- [mock_01_sales_merge](./mock_01_sales_merge)
+- [mock_02_attendance_summary](./mock_02_attendance_summary)
+- [mock_03_monthly_report](./mock_03_monthly_report)
+- [mock_04_scraping_tool](./mock_04_scraping_tool)
 
 ---
 
-## 📅 制作スケジュール
-| 期間 | 内容 |
-|------|------|
-| 11月 | 模擬案件①〜④の作成・GitHub公開 |
-| 12月 | クラウドソーシング応募・ポートフォリオ整備 |
-| 12月後半〜1月 | Streamlit学習・可視化案件対応 |
+## 🚀 対応スキル
+- PythonによるExcel自動化・レポート作成
+- pandasによるデータ処理・集計
+- Webスクレイピング（BeautifulSoup）
+- openpyxlによるExcel操作・グラフ出力
+
+## 🤝 納品イメージ
+- クライアント要件 → コード設計 → 動作確認 → Excel納品
+- 環境構築が難しいクライアント向けに、実行手順マニュアルも添付可能
+
+---
+
+## 📎 GitHubポートフォリオについて
+こちらのリポジトリは、Python自動化スキルを可視化した制作実績です。  
+案件応募時には、具体的な動作例・コード・出力結果をご覧いただけます。
